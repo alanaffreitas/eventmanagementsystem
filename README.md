@@ -20,3 +20,9 @@ To set up and run the Event Management System, ensure you have Java Development 
    
    ```bash
    javac *.java
+
+## Run the application
+Start the application by running the EventSystem class.
+
+```bash
+java EventSystem
